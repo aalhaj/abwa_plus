@@ -1,1 +1,1 @@
-{'num':'', 'msgs':'\nشكراً لأختياركم واتساب ابن الحاج\nThank you for choosing ABWhatsApp Plus\n'}
+{'num':'22', 'msgs':'\nقم بتحميل التحديث الجديد\nThank you for choosing ABWhatsApp Plus\n'}
