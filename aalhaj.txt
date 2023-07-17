@@ -1,1 +1,23 @@
-{'num':'1', 'msgs':'\nقم بتحميل التحديث الجديد\nDownload the new update\nThank you for choosing ABWhatsApp Plus\n'}
+{
+  "AlaaMods": {
+    "update_gbhelp_code": "4",
+    "reminder_time": "4",
+    "insta_themes": "4",
+    "update_link": "https://www.mediafire.com/file/dg6n3aoy23ge9ds/%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B5%25D8%25AF%25D8%25A7%25D8%25B1_V3.0.apk/file",
+    "AlaaMods_obwhatsapp": "https://update.omaryemen.net/AlWhatsApp/OBWhatsApp-apk/OBWhatsApp_V54.80_Omar_annabi.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ…ط± ط§ظ„ط¹ظ†ط§ط¨ظٹ,com.obwhatsapp",
+    "AlaaMods_ob2whatsapp": "https://update.omaryemen.net/AlWhatsApp/OBWhatsApp-apk/OB2WhatsApp_V54.80_Omar_pink.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ…ط± ط§ظ„ظˆط±ط¯ظٹ,com.ob2whatsapp",
+    "AlaaMods_ob3whatsapp": "https://update.omaryemen.net/AlWhatsApp/OBWhatsApp-apk/OB3WhatsApp_V54.80_Omar_blou.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ…ط± ط§ظ„ط§ط²ط±ظ‚,com.ob3whatsapp",
+    "AlaaMods_ob4whatsapp": "https://update.omaryemen.net/AlWhatsApp/OBWhatsApp-apk/OB4WhatsApp_V54.80_Omar_green.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ…ط± ط§ظ„ط§ط®ط¶ط±,com.ob4whatsapp",
+    "AlaaMods_ob5whatsapp": "https://update.omaryemen.net/AlWhatsApp/OBWhatsApp-apk/OB5WhatsApp_V54.80_Omar_red.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ…ط± ط§ظ„ط§ط­ظ…ط±,com.ob5whatsapp",
+    "AlaaMods_ob6whatsapp": "https://update.omaryemen.net/AlWhatsApp/OBWhatsApp-apk/OB6WhatsApp_V54.80_Omar_gold.apk.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ…ط± ط§ظ„ط°ظ‡ط¨ظٹ,com.ob6whatsapp",
+    "AlaaMods_Alwhatsapp": "https://update.omaryemen.net/AlWhatsApp/AlWhatsApp-apk/AlWhatsApp_V54.80.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ„ط§ط، ط§ظ„ط°ظ‡ط¨ظٹ,com.Alwhatsapp",
+    "AlaaMods_Al2whatsapp": "https://update.omaryemen.net/AlWhatsApp/AlWhatsApp-apk/Al2WhatsApp_V54.80.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ„ط§ط، ط§ظ„ط§ط²ط±ظ‚,com.Al2whatsapp",
+    "AlaaMods_Al3whatsapp": "https://update.omaryemen.net/AlWhatsApp/AlWhatsApp-apk/AL3WhatsApp_V54.80.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ„ط§ط، ط§ظ„ظˆط±ط¯ظٹ,com.Al3whatsapp",
+	"AlaaMods_whatsapp": "https://update.omaryemen.net/AlWhatsApp/AlWhatsApp-apk/WhatsApp_V54.80.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¹ظ„ط§ط، ط§ظ„ط§ط®ط¶ط±,com.whatsapp",
+	"AlaaMods_GBwhatsapp": "https://update.omaryemen.net/AlWhatsApp/AlWhatsApp-apk/GBWhatsApp_V54.80.apk,ط§ظ„ط§طµط¯ط§ط± V54.80,ظˆط§طھط³ط§ط¨ ط¬ظٹ ط¨ظٹ,com.GBwhatsapp",
+	"AlaaMods_WhatsApp2Plus": "https://update.omaryemen.net/AlWhatsApp/WA2_Abo3rab-apk/WA2_Abo3rab_v10.90.apk,ط§ظ„ط§طµط¯ط§ط± V10.90,ظˆط§طھط³ط§ط¨ ط§ظ„ط°ظ‡ط¨ظٹ ط§ظ„طھط§ط¬,com.WhatsApp2Plus",
+    "update_message": "
+<li>V4.0</li>
+"
+    }
+}
