@@ -83,7 +83,7 @@ def get_internet_report(adsl_number):
     captcha_image = Image.open(BytesIO(captcha_response.content))
 
     # استخدام OCR للتعرف على النص في صورة الكابتشا
-    captcha_text = pytesseract.image_to_string(captcha_image, config='--psm 4 digits')
+    captcha_text = pytesseract.image_to_string(captcha_image, config='--psm 8 digits')
 
     # الخطوة 2: إرسال بيانات تسجيل الدخول
     login_data = {
