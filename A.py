@@ -106,7 +106,7 @@ async def get_internet_report(adsl_number):
 # تشغيل البوت
 def main() -> None:
     # استبدل "YOUR_BOT_TOKEN" بالتوكن الخاص بالبوت
-    application = Application.builder().token("YOUR_BOT_TOKEN").build()
+    application = Application.builder().token("7541013461:AAEdHdziZOUk2IUc46Ti-ts1fbss-NaHYu4").build()
 
     # الأوامر والأزرار
     application.add_handler(CommandHandler("start", start))
