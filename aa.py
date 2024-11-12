@@ -2,7 +2,7 @@
 import logging
 import requests
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
+from telegram.ext import Updater, CommandHandler, MessageHandler, filters, CallbackContext
 from PIL import Image
 import pytesseract
 import io
@@ -98,7 +98,7 @@ def main():
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
-    dp.add_handler(MessageHandler(Filters.text & ~Filters.command, store_number))
+    dp.add_handler(MessageHandler(filters.text & ~filters.command, store_number))
     dp.add_handler(CallbackQueryHandler(button))
 
     updater.start_polling()
